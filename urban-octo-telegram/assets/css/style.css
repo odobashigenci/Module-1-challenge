@@ -25,6 +25,10 @@ h3 {
     text-align: center;
 }
 
+h4 {
+    font-size: 20px;
+}
+
 p {
     font-size: 16px;
 }
@@ -150,10 +154,8 @@ footer {
     text-align: center;
 }
 
-/* gave a class to the h2 element inside footer div */
-.h2-footer {
-    font-size: 20px;
-}
+
+
 
 
 /* Following, all excessive code removed */
