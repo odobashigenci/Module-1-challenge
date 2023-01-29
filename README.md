@@ -14,7 +14,7 @@ To use and understand the fuctionallity of this page, click the links on the top
 
 ## Link
 
-[link](https://odobashigenci.github.io/Module-1-challenge/urban-octo-telegram/)
+To view page [click here](https://odobashigenci.github.io/Module-1-challenge/urban-octo-telegram/)
 
 ## Credits
 
@@ -22,7 +22,7 @@ N/A
 
 ## Image
 
-![image](https://odobashigenci.github.io/Module-1-challenge/urban-octo-telegram/assets/images/digital-marketing-meeting.jpg)
+![Preview image](https://github.com/odobashigenci/Module-1-challenge/blob/main/urban-octo-telegram/assets/images/digital-marketing-meeting.jpg)
 
 N/A
 
